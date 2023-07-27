@@ -1,5 +1,5 @@
 # Traffic-Sign-Detection
-This deep learning module is regarding Indian Traffic Sign Detection and Recognition using low resolution images (50*50).
+This deep learning module is regarding ```Indian Traffic Sign Detection and Recognition``` using **low resolution** images (50*50).
 
 
 InceptionV3 is used for training and testing the data.
