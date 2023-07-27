@@ -2,7 +2,7 @@
 This deep learning module is regarding ```Indian Traffic Sign Detection and Recognition``` using **low resolution** images (50*50).
 
 
-InceptionV3 is used for training and testing the data.
+``InceptionV3`` is used for training and testing the data.
 
 The average accuracy for all traffic signs is 70%
 
